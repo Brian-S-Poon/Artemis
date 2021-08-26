@@ -1,9 +1,6 @@
 # Artemis
 An application that helps users track and monitor cryptoassets in real time updates.
 
-
-
-
 ## Inspiration
 This application was inspired by an interest to track changes in cryptocurrencies in order to analyze data and evaluate personal financial investments.
 
@@ -17,3 +14,6 @@ Artemis updates its statistics panel once every minute to sync with the target w
 
 ## Challenges encountered
 I encountered challenges when I tried to scrape the correct HTML element from the target website. My two methods for finding the correct HTML element that contains specified data was to use Inspect Element (CTRL-SHIFT-I) or to download an ad-block extension with inspect element properties called uBlock Origin.
+
+## What I learned
+I learned how to use jsoup to scrape web data and how to build a graphical user interface using Swing. In addition, I learned how to implement the Model-view-controller design pattern in order to separate the logic and GUI.
