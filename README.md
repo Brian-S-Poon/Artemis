@@ -1,5 +1,5 @@
 # Artemis
-An application that helps users track and monitor crypto assets in real time updates.
+An application that helps users track and monitor crypto assets in timed intervals.
 
 ## Inspiration
 This application was inspired by an interest to track changes in cryptocurrencies in order to analyze data and evaluate personal financial investments.
