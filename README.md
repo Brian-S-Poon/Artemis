@@ -2,7 +2,7 @@
 An application that helps users track and monitor crypto assets in timed intervals.
 
 ## Features
-- Updates the graphical user interface once per minute to show fluctuations in the TOP 20 crypto assets
+- Updates the graphical user interface once per minute to show fluctuations in the top 20 crypto assets
 
 ## Inspiration
 This application was inspired by an interest to track changes in cryptocurrencies in order to analyze data and evaluate personal financial investments.
