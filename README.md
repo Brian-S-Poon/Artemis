@@ -1,5 +1,5 @@
 # Artemis
-An application that helps users track and monitor crypto assets in scheduled intervals.
+An application that helps users track and monitor crypto assets in scheduled one minute intervals.
 
 ## Features
 - Updates the graphical user interface once per minute to show fluctuations in the top 20 crypto assets.
